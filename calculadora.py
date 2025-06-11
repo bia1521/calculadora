@@ -80,7 +80,7 @@ def main():
     # Rodapé
     print("=" * 50)
     print("Obrigado por executar meu programa!")
-    print("Visite meu GitHub: github.com/[seu-usuario]")
+    print("Visite meu GitHub: github.com/bia1521")
     print("=" * 50)
 
 
